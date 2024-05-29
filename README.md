@@ -14,7 +14,7 @@ This project is a personal portfolio website developed using React.js. It serves
 
 ## Technologies Used
 
-- **Frontend**: React.js, HTML, CSS
+- **Frontend**: React.js, Tailwind
 - **Deployment**: Zoho Catalyst
 
 ## Installation
@@ -37,6 +37,4 @@ As this is a static website, there's no installation required. However, if you w
 
 This is a personal portfolio website, but contributions are welcome for suggestions or improvements. Feel free to open an issue or pull request if you have any ideas for enhancement.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
